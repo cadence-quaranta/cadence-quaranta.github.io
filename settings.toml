@@ -108,7 +108,7 @@ footer = ""
 title = "A look at banned squeegee zones in the first days of enforcement"
 description = ""
 url = "https://www.thebanner.com/community/criminal-justice/a-look-at-banned-squeegee-zones-in-the-first-days-of-enforcement-MFPESSMHE5DKFMROK7MLBHZKMU/"
-image = "media/work/bike-lanes.jpg"
+image = "squeegee_zones.jpg"
 date = "January 2023"
 category = "Print Journalism"
 outlet = "The Baltimore Banner"
@@ -117,7 +117,7 @@ outlet = "The Baltimore Banner"
 title = "A widow’s late husband had said to look for eagles. A stranger swooped in to help her find them."
 description = ""
 url = "https://www.thebanner.com/community/local-news/conowingo-dam-eagles-generous-birdwatcher-L3H7TD5GERGEFGGYTOTAVBQN7Y/"
-image = "media/work/drought.jpg"
+image = "eagle_watchers.jpg"
 date = "April 2023"
 category = "Print Journalism"
 outlet = "The Baltimore Banner"
@@ -126,7 +126,7 @@ outlet = "The Baltimore Banner"
 title = "Residents report hateful flyers being distributed in Baltimore City and County"
 description = ""
 url = "https://www.thebanner.com/community/local-news/antisemitic-flyers-baltimore-county-anti-lgbtq-flyers-baltimore-city-3QFQ4ZG7OFH2BI4OYDHAB5ELXY/"
-image = "media/work/food-bank.jpg"
+image = "hateful_flyers.jpg"
 date = "June 2023"
 category = "Print Journalism"
 outlet = "The Baltimore Banner"
@@ -135,37 +135,46 @@ outlet = "The Baltimore Banner"
 title = "Officer shot teen in the back as he was running away, witnesses say"
 description = ""
 url = "https://www.thebanner.com/community/criminal-justice/officer-shot-teen-in-the-back-as-he-was-running-away-witnesses-say-JYLO5V32NJCP7CMFZ6OAPRHMM4/"
-image = "media/work/food-bank.jpg"
+image = "teen_shot.jpg"
 date = "May 2023"
 category = "Print Journalism"
 outlet = "The Baltimore Banner"
 
-# This one has no image on purpose — the site still handles it gracefully.
 [[work]]
-title = "Opinion: Student journalism deserves a seat at the press table"
-description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
-url = "https://example.com/your-story-link-goes-here"
-date = "October 2025"
-category = "Journalism"
-outlet = "Richmond Confidential"
+title = "SPECIAL REPORT: The Foreign-Flagged Ships That Linger Off Taiwan’s Southwest Coast"
+description = ""
+url = "https://www.youtube.com/watch?v=BP82cGKwIjI"
+image = "FOCs.jpeg"
+date = "July 2026"
+category = "Video Journalism"
+outlet = "TaiwanPlus News"
+
+# This one has no image on purpose — the site still handles it gracefully.
+# [[work]]
+# title = "Opinion: Student journalism deserves a seat at the press table"
+# description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
+# url = "https://example.com/your-story-link-goes-here"
+# date = "October 2025"
+# category = "Journalism"
+# outlet = "Richmond Confidential"
 
 # ── A photo essay stored right here on your site ────────────
 #
 # No url needed! List the photos and clicking the work opens a
 # slideshow. Write captions after the | symbol (optional).
 
-[[work]]
-title = "Saturday at the farmers market"
-description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-date = "February 2026"
-category = "Photojournalism"
-photos = [
-  "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
-  "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
-  "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
-  "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
-  "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
-]
+# [[work]]
+# title = "Saturday at the farmers market"
+# description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
+# date = "February 2026"
+# category = "Photojournalism"
+# photos = [
+  # "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
+  # "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
+  # "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
+ # "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
+  # "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
+#]
 
 # ── An audio story stored on your site ──────────────────────
 #
