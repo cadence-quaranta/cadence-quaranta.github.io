@@ -140,15 +140,6 @@ date = "May 2023"
 category = "Print Journalism"
 outlet = "The Baltimore Banner"
 
-[[work]]
-title = "SPECIAL REPORT: The Foreign-Flagged Ships That Linger Off Taiwan’s Southwest Coast"
-description = ""
-url = "https://www.youtube.com/watch?v=BP82cGKwIjI"
-image = "FOCs.jpeg"
-date = "July 2026"
-category = "Video Journalism"
-outlet = "TaiwanPlus News"
-
 # This one has no image on purpose — the site still handles it gracefully.
 # [[work]]
 # title = "Opinion: Student journalism deserves a seat at the press table"
@@ -181,13 +172,13 @@ outlet = "TaiwanPlus News"
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
 
-[[work]]
-title = "One small step: the sound that stopped the world"
-description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
-audio = "media/audio/one-small-step.mp3"
-image = "media/work/apollo.jpg"
-date = "December 2025"
-category = "Multimedia"
+# [[work]]
+# title = "One small step: the sound that stopped the world"
+# description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
+# audio = "media/audio/one-small-step.mp3"
+# image = "media/work/apollo.jpg"
+# date = "December 2025"
+# category = "Multimedia"
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
@@ -195,11 +186,11 @@ category = "Multimedia"
 # here. Clicking the work plays it in a pop-up.
 
 [[work]]
-title = "Video explainer: why we're going back to the Moon"
-description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
-video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
-date = "September 2025"
-category = "Multimedia"
+title = "SPECIAL REPORT: The Foreign-Flagged Ships That Linger Off Taiwan’s Southwest Coast"
+description = ""
+video = "https://www.youtube.com/watch?v=BP82cGKwIjI"
+date = "FOCs.jpeg"
+category = "Video Journalism"
 
 
 # ============================================================
