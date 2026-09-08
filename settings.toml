@@ -64,8 +64,8 @@ socials = [
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
-resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
+banner_photo = "APEC_photo.JPG"   # A portrait or banner photo of you
+resume = ""         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
@@ -74,19 +74,13 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. I grew up in Fresno, where the kitchen radio was
-always tuned to the news. I've been hooked ever since.
+I'm a journalism student at UC Berkeley, with a focus on OSINT and 
+investigative journalism. 
 
-My reporting covers housing, transportation and food access in the East
-Bay. I write for Richmond Confidential and spent last summer as a
-reporting intern with the SF Chronicle, where I learned that the best
-stories usually start at a bus stop, a taquería or a city council
-meeting that runs past midnight.
-
-When I'm not reporting, you'll find me photographing high school
-soccer, digging through city budget PDFs, or hunting down the Bay
-Area's best al pastor.
+Previously, I reported on cross-strait relations and Taiwan's foreign affairs
+for TaiwanPlus, an English-language broadcast news outlet based in Taipei. 
+Before that, I was a breaking news reporter at The Baltimore Banner.
+I've also worked on national investigative stories for The Washington Post.
 """
 
 # Optional extra line at the bottom of every page.
@@ -111,31 +105,40 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
+title = "A look at banned squeegee zones in the first days of enforcement"
+description = ""
+url = "https://www.thebanner.com/community/criminal-justice/a-look-at-banned-squeegee-zones-in-the-first-days-of-enforcement-MFPESSMHE5DKFMROK7MLBHZKMU/"
 image = "media/work/bike-lanes.jpg"
-date = "March 2026"
-category = "Journalism"
-outlet = "Berkeleyside"
+date = "January 2023"
+category = "Print Journalism"
+outlet = "The Baltimore Banner"
 
 [[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
+title = "A widow’s late husband had said to look for eagles. A stranger swooped in to help her find them."
+description = ""
+url = "https://www.thebanner.com/community/local-news/conowingo-dam-eagles-generous-birdwatcher-L3H7TD5GERGEFGGYTOTAVBQN7Y/"
 image = "media/work/drought.jpg"
-date = "January 2026"
-category = "Journalism"
-outlet = "The San Francisco Chronicle"
+date = "April 2023"
+category = "Print Journalism"
+outlet = "The Baltimore Banner"
 
 [[work]]
-title = "As grocery prices climb, more Cal students turn to the campus food pantry"
-description = "Visits to the UC Berkeley Food Pantry have doubled in two years. Students, staff and volunteers describe the quiet logistics of keeping shelves stocked."
-url = "https://example.com/your-story-link-goes-here"
+title = "Residents report hateful flyers being distributed in Baltimore City and County"
+description = ""
+url = "https://www.thebanner.com/community/local-news/antisemitic-flyers-baltimore-county-anti-lgbtq-flyers-baltimore-city-3QFQ4ZG7OFH2BI4OYDHAB5ELXY/"
 image = "media/work/food-bank.jpg"
-date = "November 2025"
-category = "Journalism"
-outlet = "The Daily Californian"
+date = "June 2023"
+category = "Print Journalism"
+outlet = "The Baltimore Banner"
+
+[[work]]
+title = "Officer shot teen in the back as he was running away, witnesses say"
+description = ""
+url = "https://www.thebanner.com/community/criminal-justice/officer-shot-teen-in-the-back-as-he-was-running-away-witnesses-say-JYLO5V32NJCP7CMFZ6OAPRHMM4/"
+image = "media/work/food-bank.jpg"
+date = "May 2023"
+category = "Print Journalism"
+outlet = "The Baltimore Banner"
 
 # This one has no image on purpose — the site still handles it gracefully.
 [[work]]
