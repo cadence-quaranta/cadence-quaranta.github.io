@@ -66,7 +66,7 @@ socials = [
 
 banner_photo = "APEC_REPORTING.JPG"   # A portrait or banner photo of you
 resume = ""         # A PDF of your resume (adds a Resume button)
-favicon = ""                        # Tiny browser-tab icon. Empty = made for you
+favicon = "CQ"                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
 #
@@ -189,7 +189,8 @@ outlet = "The Baltimore Banner"
 title = "SPECIAL REPORT: The Foreign-Flagged Ships That Linger Off Taiwan’s Southwest Coast"
 description = ""
 video = "https://www.youtube.com/watch?v=BP82cGKwIjI"
-date = "FOCs.jpg"
+image = "FOCs.jpg"
+date = "July 29"
 category = "Video Journalism"
 
 
