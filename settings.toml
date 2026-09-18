@@ -146,14 +146,14 @@ description = "Photo assignment from UC Berkeley Journalism School."
 date = "September 2026"
 category = "Photojournalism"
 photos = [
-  "media/Repeating_Pattern.jpg | Repeating Pattern",
-  "media/Different_Perspective.jpg | Perspective",
-  "media/Rule_Of_Thirds.jpg | Rule of Thirds",
-  "media/Balance_And_Symmetry.jpg | Symmetry",
-  "media/Framing.jpg | Framing",   
-  "media/Foreground_Background.jpg | Foreground-background",
-  "media/Window_Portrait.jpg | Portrait",
-  "media/Frozen_In_Time.jpg | Moment",
+  "Repeating_Pattern.jpg | Repeating Pattern",
+  "Different_Perspective.jpg | Perspective",
+  "Rule_Of_Thirds.jpg | Rule of Thirds",
+  "Balance_And_Symmetry.jpg | Symmetry",
+  "Framing.jpg | Framing",   
+  "Foreground_Background.jpg | Foreground-background",
+  "Window_Portrait.jpg | Portrait",
+  "Frozen_In_Time.jpg | Moment",
 
 # This one has no image on purpose — the site still handles it gracefully.
 # [[work]]
