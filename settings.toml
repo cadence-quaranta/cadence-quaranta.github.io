@@ -141,6 +141,13 @@ category = "Print Journalism"
 outlet = "The Baltimore Banner"
 
 [[work]]
+title = "SPECIAL REPORT: The Foreign-Flagged Ships That Linger Off Taiwan’s Southwest Coast"
+description = ""
+video = "https://www.youtube.com/watch?v=BP82cGKwIjI"
+date = "July 29"
+category = "Video Journalism"
+
+[[work]]
 title = "Photojournalism Assignment"
 description = "Photo assignment from UC Berkeley Journalism School."
 date = "September 2026"
